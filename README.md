@@ -54,6 +54,9 @@ l2_leaf_reg: [1, 3, 5, 10]
 A versão predicitonextra.py teve um ajuste manual de hiperparâmetros.
 
 📈 Avaliação
+
 Métricas utilizadas: Erro Quadrático Médio (MSE) sobre o conjunto de validação.
+
 Importância das features visualizada para XGBoost (xgb.plot_importance).
+
 Melhor combinação de hiperparâmetros exibida após RandomizedSearchCV.
